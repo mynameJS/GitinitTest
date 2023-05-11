@@ -1,2 +1,0 @@
-# GitinitTest
-For Study
